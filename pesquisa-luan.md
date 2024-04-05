@@ -12,3 +12,13 @@
 ![imagem git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png) 
 
 
+##Comandos basicos do Git
+
+- `git init`: Inicializa um novo repositório Git local.
+- `git clone [url]`: Cria uma cópia local de um repositório Git remoto.
+- `git add [arquivo]`: Adiciona um arquivo ou mudança ao próximo commit.
+- `git commit -m "mensagem"`: Registra as alterações feitas no repositório com uma mensagem descritiva.
+- `git push`: Envia as alterações para o repositório remoto.
+- `git pull`: Atualiza o repositório local com as últimas alterações do repositório remoto.
+- `git branch`: Lista, cria ou deleta branches.
+- `git checkout [nome_do_branch]`: Troca para outro branch.
