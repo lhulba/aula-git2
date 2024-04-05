@@ -9,4 +9,4 @@
 
 #O Git é fundamental no desenvolvimento colaborativo de software. Sua capacidade de gerenciar versões de forma eficaz permite que equipes trabalhem juntas sem conflitos, facilitando a integração e o teste de novas funcionalidades. Além disso, a possibilidade de reverter para qualquer estado anterior do projeto oferece uma grande segurança contra perda de trabalho ou erros.
 
-![imagem git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png) 
+##![imagem git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png) 
