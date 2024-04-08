@@ -22,3 +22,18 @@
 - `git pull`: Atualiza o repositório local com as últimas alterações do repositório remoto.
 - `git branch`: Lista, cria ou deleta branches.
 - `git checkout [nome_do_branch]`: Troca para outro branch.
+
+  
+## O que e Github e para que serve?
+
+## GitHub é uma plataforma de hospedagem de código-fonte baseada em nuvem que permite que desenvolvedores colaborem em projetos de software de forma eficiente. E uma plataforma essencial para o desenvolvimento de software colaborativo, fornecendo ferramentas poderosas para controle de versão, colaboração, gerenciamento de projetos e networking na comunidade de desenvolvimento de software.
+
+![imagem github](https://miro.medium.com/v2/resize:fit:1125/0*CpxR8zt1z6vZDorB.png)
+
+
+## O que e Vs code e para que serve?
+
+##Visual Studio Code é um editor de código-fonte altamente extensível e personalizável, desenvolvido pela Microsoft, que oferece uma ampla gama de recursos para aumentar a produtividade dos desenvolvedores durante o processo de codificação, depuração e controle de versão.
+
+
+![imagem vscode](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg)
