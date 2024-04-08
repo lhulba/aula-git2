@@ -24,7 +24,7 @@
 - `git checkout [nome_do_branch]`: Troca para outro branch.
 
   
-## O que e Github e para que serve?
+##O que e Github e para que serve?
 
 ## GitHub é uma plataforma de hospedagem de código-fonte baseada em nuvem que permite que desenvolvedores colaborem em projetos de software de forma eficiente. E uma plataforma essencial para o desenvolvimento de software colaborativo, fornecendo ferramentas poderosas para controle de versão, colaboração, gerenciamento de projetos e networking na comunidade de desenvolvimento de software.
 
